@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2591222784",
+    "hash" : "2675050388",
     "id" : "4C08A968",
-    "lastKnownWriteTime" : 1520537746,
-    "last_content_update" : 1520537746004,
+    "lastKnownWriteTime" : 1520538163,
+    "last_content_update" : 1520538163090,
     "path" : "~/GitHub/R/genome/genomeTest.R",
     "project_path" : "genomeTest.R",
     "properties" : {
-        "cursorPosition" : "0,0",
+        "cursorPosition" : "4,30",
         "scrollLine" : "0",
         "tempName" : "Untitled1"
     },
