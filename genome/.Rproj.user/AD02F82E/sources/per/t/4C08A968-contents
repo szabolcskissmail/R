@@ -1,5 +1,9 @@
 genomeTypes <- c('T', 'A', 'C', 'G')
 
+randomDna <- function(length){
+  return (sample(genomeTypes, length, replace = TRUE))
+}
+
 print(genomeTypes)
 
-print (sample(genomeTypes, 1))
+print (randomDna(50))
