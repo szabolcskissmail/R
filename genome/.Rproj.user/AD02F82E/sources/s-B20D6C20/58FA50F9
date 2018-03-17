@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1521307004696.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "58FA50F9",
+    "lastKnownWriteTime" : 1521308149,
+    "last_content_update" : 1521308149,
+    "path" : "~/GitHub/R/genome/genome.txt",
+    "project_path" : "genome.txt",
+    "properties" : {
+        "cursorPosition" : "10,52",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}
